@@ -1,0 +1,8 @@
+C:\Users\javie\source\repos\Spotify\Spotify\x64\Debug\Spotify.vcxproj.AssemblyReference.cache
+C:\Users\javie\source\repos\Spotify\Spotify\x64\Debug\Spotify.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\javie\source\repos\Spotify\Spotify\x64\Debug\Spotify.MyForm.resources
+C:\Users\javie\source\repos\Spotify\Spotify\x64\Debug\Spotify.vcxproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\Proyectos Visual\repos\Spotify\Spotify\x64\Debug\Spotify.vcxproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Proyectos Visual\repos\Spotify\Spotify\x64\Debug\Spotify.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\Proyectos Visual\repos\Spotify\Spotify\x64\Debug\Spotify.MyForm.resources
+C:\Users\javie\OneDrive\Escritorio\Proyectos Visual\repos\Spotify\Spotify\x64\Debug\Spotify.vcxproj.GenerateResource.cache
